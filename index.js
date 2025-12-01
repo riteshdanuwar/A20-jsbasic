@@ -1,0 +1,10 @@
+console.log("Hello, World!");
+console.log("This is Day 1 of the coding challenge.");
+console.log("Let's get started with some JavaScript!");
+console.log("Stay tuned for more challenges ahead.");
+console.log("Happy coding!");
+console.log("Remember to take breaks and have fun!");
+console.log("Keep pushing your limits and learning new things!");
+console.log("You are doing great!");
+console.log("Consistency is key to success.");
+console.log("See you tomorrow for Day 2!");
