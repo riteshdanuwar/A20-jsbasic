@@ -31,3 +31,8 @@ getCollegeName();
 
 // console.log(abc);
 // var abc="hello";
+
+getN
+const getnName=()=>{
+  console.log("hello,Ritesh");
+}
